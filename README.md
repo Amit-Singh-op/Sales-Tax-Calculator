@@ -1,5 +1,5 @@
-#Sales Tax Calculator
-##Overview
+###Sales Tax Calculator
+###Overview
 The Sales Tax Calculator is a Java-based console application designed to calculate sales taxes and total price for a list of purchased items. The program follows these rules:
 
 Basic sales tax of 10% is applied on all goods except books, food, and medical products.
